@@ -1,4 +1,4 @@
-print("Nama: Faisal A. F. Rahman\nNIM: 2130511027\n")
+print("Nama: Faisal A. F. Rahman\nNIM: 21***11027\n")
 
 def cari_luas_belahketupat(p, q):  
     """

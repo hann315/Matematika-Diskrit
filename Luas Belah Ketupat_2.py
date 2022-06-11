@@ -1,4 +1,4 @@
-print("Nama: Faisal A. F. Rahman\nNIM: 2130511027")
+print("Nama: Faisal A. F. Rahman\nNIM: 21***11027")
 
 def cari_luas_belahketupat(p, q):  
     return ( ( p * q ) / 2) # It is a formula which adds the three side and # then return the value to the statement of calling fucntion.
